@@ -15,3 +15,6 @@ JavaScript CheatCheet:
 
 https://alhassy.github.io/JavaScriptCheatSheet/CheatSheet_Portrait.pdf
 
+JavaScript subreddit:
+https://www.reddit.com/r/learnjavascript/
+
