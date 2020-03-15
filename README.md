@@ -11,3 +11,7 @@ JavaScript Regular Expression:
 
 https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/
 
+JavaScript CheatCheet:
+
+https://alhassy.github.io/JavaScriptCheatSheet/CheatSheet_Portrait.pdf
+
