@@ -21,3 +21,5 @@ https://alhassy.github.io/JavaScriptCheatSheet/CheatSheet_Portrait.pdf
 JavaScript subreddit:
 https://www.reddit.com/r/learnjavascript/
 
+Best JavaScript Tutorial:
+https://www.freecodecamp.org/news/best-javascript-tutorial/
