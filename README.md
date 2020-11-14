@@ -26,3 +26,6 @@ https://www.freecodecamp.org/news/best-javascript-tutorial/
 
 Advanced JavaScript Cheatsheet:
 https://zerotomastery.io/courses/advanced-javascript/cheatsheet/
+
+JavaScript the right way:
+https://jstherightway.org/
