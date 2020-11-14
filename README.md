@@ -1,4 +1,4 @@
-# JavaScript-Resources
+# JavaScript Resources
 This repository is place to find all the resources to learn JavaScript
 
 JavaScript Blogs to read:
@@ -29,3 +29,6 @@ https://zerotomastery.io/courses/advanced-javascript/cheatsheet/
 
 JavaScript the right way:
 https://jstherightway.org/
+
+JavaScript Operators:
+https://joshwcomeau.com/operator-lookup/
